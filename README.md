@@ -20,3 +20,5 @@ The games company behind sPyThon needs a Data Scientist to answer one question: 
 
 Follow along with the [Python](https://github.com/RaInta/PythonOrR/blob/master/notebooks/Fanning_the_Flames_Python.ipynb) and the [R](https://github.com/RaInta/PythonOrR/blob/master/notebooks/Fanning_the_Flames_R.ipynb) versions of this analysis!
 
+You can also download the respective code as standalone scripts, right here from this repo.
+
