@@ -13,6 +13,19 @@
 # What is our current working directory?
 getwd()
 
+
+# What versions of libaries am I using?
+version$version.string
+packageVersion("RSQLite")
+packageVersion("readxl")
+packageVersion("Hmisc")
+packageVersion("dplyr")
+packageVersion("GGally")
+packageVersion("ggplot2")
+packageVersion("car") 
+packageVersion("gvlma") 
+packageVersion("MASS") 
+
 ##################################################
 ### 1: Importing data
 ##################################################
