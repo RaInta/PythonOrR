@@ -18,5 +18,5 @@ Sounds weird, but apparently fun once you get into it. Players get in-game credi
 
 The games company behind sPyThon needs a Data Scientist to answer one question: **did their recent promotion increase in-game purchases?**
 
-Follow along with the [https://github.com/RaInta/PythonOrR/blob/master/notebooks/Fanning_the_Flames_Python.ipynb](Python) and the [https://github.com/RaInta/PythonOrR/blob/master/notebooks/Fanning_the_Flames_R.ipynb](R) versions of this analysis!
+Follow along with the [Python](https://github.com/RaInta/PythonOrR/blob/master/notebooks/Fanning_the_Flames_Python.ipynb) and the [R](https://github.com/RaInta/PythonOrR/blob/master/notebooks/Fanning_the_Flames_R.ipynb) versions of this analysis!
 
