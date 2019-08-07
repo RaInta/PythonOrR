@@ -1,5 +1,5 @@
 # PythonOrR
-Companion code to webinar: Fanning the Flames: An Unfair Comparison Between Python and R in Data Science
+Companion code to webinar: [Fanning the Flames: An Unfair Comparison Between Python and R in Data Science](https://www.youtube.com/watch?v=yqFgaRXmBQ8&t=385s)
 
 There is a very popular, evergreen, debate on which is the more appropriate general-purpose tool for Data Science tasks: Python or R?
 
